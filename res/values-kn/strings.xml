@@ -1,0 +1,449 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name" translatable="false">ಕ್ವಿಕ್ ಮೀಡಿಯಾ ಗ್ರ್ಯಾಬರ್</string>
+    <string name="delete_file">ಡಿಲೀಟ್</string>
+    <string name="dismiss">ಕ್ಯಾನ್ಸಲ್</string>
+    <string name="advanced_settings">ಅಡ್ವಾನ್ಸಡ್</string>
+    <string name="print_details">ಡೀಟೈಲ್ಡ್ ಔಟ್ಪುಟ್</string>
+    <string name="link_copied">ಲಿಂಕ್ ಕೋಪಿಎಡ್ ಟು ಕ್ಲಿಪ್ಬೋರ್ಡ್</string>
+    <string name="credits_desc">ಕ್ರೆಡಿಟ್ಸ್ ಅಂಡ್ ಲಿಬ್ರೆ ಸಾಫ್ಟ್ವೇರ್</string>
+    <string name="readme_desc">ಚೆಕ್ ದಿ ಗಿತುಬ್ ರೆಪೊಸಿಟರಿ ಅಂಡ್ ದಿ ರೆಡ್ಮ್</string>
+    <string name="readme" translatable="false">ರೀಡ್ ಮಿ</string>
+    <string name="remove">ರಿಮೋವ್</string>
+    <string name="custom_command_desc">ರನ್ yt-dlp ಕಮಾಂಡ್ ವಿಥ್ ಕಸ್ಟಮ್ ಟೆಂಪ್ಲೆಟ್</string>
+    <string name="ytdlp_update">ಕ್ಲಿಕ್ ಟು ಇನ್ಸ್ಟಾಲ್ ದಿ ಲೇಟೆಸ್ಟ್ yt-dlp ವರ್ಷನ್</string>
+    <string name="extract_audio_summary">ಡೌನ್ಲೋಡ್ ಅಂಡ್ ಸೇವ್ ಆಡಿಯೋ, ಇನ್ಸ್ಟೆಡ್ ಆಫ್ ವಿಡಿಯೋ</string>
+    <string name="paste_fail_msg">ಕುಡ್ ನಾಟ್ ಮ್ಯಾಚ್ ದಿ ಯುಆರ್ಎಲ್ ಇನ್ ದಿ ಕ್ಲಿಪ್ಬೋರ್ಡ್</string>
+    <string name="on">ಆನ್</string>
+    <string name="download_settings_desc">ಜನರಲ್,ಫಾರ್ಮ್ಯಾಟ್,ಕಸ್ಟಮ್ ಕಮಾಂಡ್</string>
+    <string name="yt_dlp_docs">Yt-dlp ಯೂಸೇಜ್ ರೆಫೆರೆನ್ಸಸ್</string>
+    <string name="edit">ಎಡಿಟ್</string>
+    <string name="paste_msg">ಪೇಸ್ಟ್ ಯುಆರ್ಎಲ್ ಫ್ರಮ್ ಕ್ಲಿಪ್ಬೋರ್ಡ್</string>
+    <string name="video_quality">ವಿಡಿಯೋ ಕ್ವಾಲಿಟಿ</string>
+    <string name="display_settings">ಡಾರ್ಕ್ ಥೀಮ್, ಡೈನಾಮಿಕ್ ಕಲರ್,ಲ್ಯಾಂಗುವೇಜಸ್</string>
+    <string name="settings_before_download_desc">ಕಾನ್ಫಿಗರ್ ಬಿಫೋರ್ ಡೌನ್ಲೋಡ್</string>
+    <string name="release_desc">ಲುಕ್ ಫಾರ್ ಛಂಗೆಲೊಗ್ಸ್ ಅಂಡ್ ನ್ಯೂ ವೆರಿಸಿಯೋನ್ಸ್</string>
+    <string name="ytdlp_version">Yt-dlp ವರ್ಷನ್</string>
+    <string name="display">ಡಿಸ್ಪ್ಲೇ</string>
+    <string name="off">ಆಫ್</string>
+    <string name="error_copied">ಎರರ್ ರಿಪೋರ್ಟ್ ಕಪಿಡ್ ಟು ಕ್ಲಿಪ್ಬೋರ್ಡ್</string>
+    <string name="back">ಬ್ಯಾಕ್</string>
+    <string name="downloads_history">ಡೌನ್ಲೋಡ್ಸ್</string>
+    <string name="release">ಲೇಟೆಸ್ಟ್ ರಿಲೀಸ್</string>
+    <string name="version">ವರ್ಷನ್</string>
+    <string name="yt_dlp_update_fail">ಕುಡ್ ನಾಟ್ ಇನ್ಸ್ಟಾಲ್ ದಿ ಲೇಟೆಸ್ಟ್ yt-dlp ವರ್ಷನ್. ಪ್ಲೀಸ್ ಮೇಕ್ ಸುರೆ ಯು ಆರ್ ಕನೆಕ್ಟೆಡ್ ಟು ದಿ ಇಂಟರ್ನೆಟ್.</string>
+    <string name="general_settings">ಜನರಲ್</string>
+    <string name="print_details_desc">ಪ್ರಿಂಟ್ ಡೀಟೈಲ್ಡ್ ಮೆಸೇಜಸ್ ವೆನ್ ಡೌನ್ಲೋಅಡಿಂಗ್</string>
+    <string name="download_success_msg">ಡೌನ್ಲೋಡ್ ಫೀನಿಶೆಡ್</string>
+    <string name="convert_audio_format">ಕನ್ವರ್ಟ್ ಆಡಿಯೋ ಫಾರ್ಮ್ಯಾಟ್</string>
+    <string name="video_directory">ವೀಡಿಯೊ ಫೋಲ್ಡರ್</string>
+    <string name="url_empty">ದಿ ಲಿಂಕ್ ಕೆನಾಟ್ ಬಿ ಎಂಪ್ಟಿ</string>
+    <string name="paste">ಪೇಸ್ಟ್</string>
+    <string name="delete_info_msg">ರಿಮೋವ್ \"%1$s\" ಫ್ರಮ್ ಯುವರ್ ಡೌನ್ಲೋಡ್ ಹಿಸ್ಟರಿ ಫಾರ್ ಗುಡ್?</string>
+    <string name="download">ಡೌನ್ಲೋಡ್</string>
+    <string name="create_thumbnail_summary">ಸೇವ್ ವಿಡಿಯೋ ಥಂಬ್ನೇಲ್ ಆಸ್ ಆ ಫೈಲ್</string>
+    <string name="start_execute">ಸ್ಟಾರ್ಟ್ ಎಕ್ಸಿಕ್ಯೂಟಿಂಗ್ ಕಮಾಂಡ್</string>
+    <string name="checked">ಚೆಕ್ಡ್</string>
+    <string name="about">ಅಬೌಟ್</string>
+    <string name="open_url">ಓಪನ್ ಲಿಂಕ್</string>
+    <string name="convert_audio_format_desc">ರೇ-ಎನ್ಕೋಡಿಂಗ್ ಆಡಿಯೋ ಫೈಲ್ಸ್ ವಿಲ್ ಕಾಸ್ ಲೋಸ್ ಇನ್ ಆಡಿಯೋ ಕ್ವಾಲಿಟಿ ಅಂಡ್ ಇನ್ಕ್ರೀಜ್ ಇನ್ ಫೈಲ್ ಸೈಜ್.</string>
+    <string name="not_convert">ಅನ್ಕನ್ವೆರ್ಟೆಡ್</string>
+    <string name="about_page">ವರ್ಷನ್, ಫೀಡ್ಬ್ಯಾಕ್, ಆಟೋ ಅಪ್ಡೇಟ್</string>
+    <string name="thumbnail">ತುಂಬಿನೈಲ್</string>
+    <string name="download_error_msg">ಕುಡ್ ನಾಟ್ ಡೌನ್ಲೋಡ್ ಫೈಲ್</string>
+    <string name="custom_command_template">ಕಮಾಂಡ್ ಟೆಂಪ್ಲೆಟ್</string>
+    <string name="download_start_msg">ಡೌನ್ಲೋಡ್ \"%1$s\"</string>
+    <string name="dark_theme">ಡಾರ್ಕ್ ಥೀಮ್</string>
+    <string name="cancel">ಕ್ಯಾನ್ಸಲ್</string>
+    <string name="settings_before_download">ಕಾನ್ಫಿಗರ್ ಬಿಫೋರ್ ಡೌನ್ಲೋಡ್</string>
+    <string name="confirm">ಕನ್ಫರ್ಮ್</string>
+    <string name="permission_denied">ಪರ್ಮಿಷನ್ ಡೇನಿಎಡ್</string>
+    <string name="language_settings">ಸೆಟ್ ಡಿಸ್ಪ್ಲೇ ಲ್ಯಾಂಗ್ವೇಜ್</string>
+    <string name="follow_system">ಸಿಸ್ಟಮ್</string>
+    <string name="delete_info">ರಿಮೋವ್?</string>
+    <string name="language">ಡಿಸ್ಪ್ಲೇ ಲ್ಯಾಂಗ್ವೇಜ್</string>
+    <string name="custom_command">ಕಸ್ಟಮ್ ಕಮಾಂಡ್</string>
+    <string name="task_running">ಎನ್ ಎಕ್ಸಿಸ್ಟಿಂಗ್ ಡೌನ್ಲೋಡ್ ಟಾಸ್ಕ್ ಇಸ್ ಆಲ್ರೆಡಿ ರನ್ನಿಂಗ್</string>
+    <string name="settings_before_download_text">ಅಡ್ಜಸ್ಟ್ ದಿಸ್ ಡೌನ್ಲೋಡ್</string>
+    <string name="video">ವಿಡಿಯೋ</string>
+    <string name="fetch_info_error_msg">ಕುಡ್ ನಾಟ್ ಫೇತ್ಚ್ ವಿಡಿಯೋ ಇನ್ಫೋ</string>
+    <string name="settings">ಸೆಟ್ಟಿಂಗ್ಸ್</string>
+    <string name="yt_dlp_up_to_date">ಯೂಸಿಂಗ್ ದಿ ಲೇಟೆಸ್ಟ್ ವರ್ಷನ್ ಆ yt-dlp</string>
+    <string name="extract_audio">ಸೇವ್ ಆಸ್ ಆಡಿಯೋ</string>
+    <string name="create_thumbnail">ಸೇವ್ ಥಂಬ್‌ನೇಲ್</string>
+    <string name="convert_to">ಕನ್ವರ್ಟ್ ಟು %1$s</string>
+    <string name="format">ಫಾರ್ಮ್ಯಾಟ್</string>
+    <string name="ytdlp_update_action">ಅಪ್ಡೇಟ್ yt-dlp</string>
+    <string name="audio">ಆಡಿಯೋ</string>
+    <string name="edit_template_desc">ಔಟ್ಪುಟ್ ಪಥ ಅಂಡ್ ಯುಆರ್ಎಲ್ ವಿಲ್ ಬಿ ಆಡೆಡ್ ಬೈ ದಿ ಅಪ್.</string>
+    <string name="credits">ಕ್ರೆಡಿಟ್ಸ್</string>
+    <string name="fetching_info">ಫೆಟಚಿಂಗ್ ವಿಡಿಯೋ ಇನ್ಫೋ…</string>
+    <string name="close">ಕ್ಲೋಸ್</string>
+    <string name="user_guide">ಯುಸರ್ ಗೈಡ್</string>
+    <string name="video_format_preference">ಪ್ರಿಫರ್ಡ ವಿಡಿಯೋ ಫಾರ್ಮ್ಯಾಟ್</string>
+    <string name="check_download_settings_desc">ಟೇಕ್ ಆ ಲುಕ್ ಅಟ್ ದಿ ಡೌನ್ಲೋಡ್ ಸೆಟ್ಟಿಂಗ್ಸ್ ಅಂಡ್ ಮೇಕ್ ಸುರೆ ಯು ಹಾವೇ ದಿ ಲೇಟೆಸ್ಟ್ ವರ್ಷನ್ ಆ yt-dlp ಬಿಫೋರ್ ಉಸಿಂಗ್ ಇಟ್.</string>
+    <string name="preferred_format_desc">ಪ್ರಿಫರ್ಡ ಫಾರ್ಮ್ಯಾಟ್ ವೆನ್ ಮಲ್ಟಿಪಲ್ ಆರ್ ಪ್ರೊವಿಡೆಡ್</string>
+    <string name="download_playlist">ಡೌನ್ಲೋಡ್ ಪ್ಲೇಲಿಸ್ಟ್</string>
+    <string name="paste_desc">ಕ್ಲಿಕ್ \"ಪೇಸ್ಟ್\" ಟು ಗೆಟ್ ವಿಡಿಯೋ ಲಿಂಕ್ ಫ್ರಮ್ ಯುವರ್ ಕ್ಲಿಪ್ಬೋರ್ಡ್.</string>
+    <string name="convert_audio">ಕನ್ವರ್ಟ್</string>
+    <string name="video_url">ವಿಡಿಯೋ ಲಿಂಕ್</string>
+    <string name="channel_description">ನೋಟಿಫ್ಯ್ ಆ ಡೌನ್ಲೋಅಡೆಡ್ ಫೈಲ್ಸ್ ಅಂಡ್ ಪ್ರೋಗ್ರೆಸ್</string>
+    <string name="download_notification">ಡೌನ್ಲೋಡ್ ನೋಟಿಫಿಕೇಶನ್</string>
+    <string name="start_download">ಡೌನ್ಲೋಡ್</string>
+    <string name="download_desc">ಥೇನ್ ಕ್ಲಿಕ್ \"ಡೌನ್ಲೋಡ್\" ಆಫ್ಟರ್ ಅದ್ಜುಸ್ಟಿಂಗ್ ಇಟ್ಸ್ ಸೆಟ್ಟಿಂಗ್ಸ್.</string>
+    <string name="open_settings">ಓಪನ್ ಸೆಟ್ಟಿಂಗ್ಸ್</string>
+    <string name="download_history_desc">ಚೆಕ್ ಅಂಡ್ ಮ್ಯಾನೇಜ್ ಇನ್-ಅಪ್ಪ ಡೌನ್ಲೋಡ್ಸ್, ಇನ್ಕ್ಲೂಡಿಂಗ್ ವೀಡಿಯೋಸ್ ಅಂಡ್ ಆಡಿಯೋ ಫೈಲ್ಸ್.</string>
+    <string name="video_format">ವಿಡಿಯೋ ಫಾರ್ಮ್ಯಾಟ್</string>
+    <string name="additional_settings">ಅಡಿಷನಲ್ ಸೆಟ್ಟಿಂಗ್ಸ್</string>
+    <string name="video_quality_desc">ಲಿಮಿಟ್ ದಿ ವಿಡಿಯೋ ಕ್ವಾಲಿಟಿ ವೆನ್ ಮಲ್ಟಿಪಲ್ ಆರ್ ಪ್ರೆಸೆಂಟ್</string>
+    <string name="download_playlist_desc">ಡೌನ್ಲೋಡ್ ಮಲ್ಟಿಪಲ್ ವೀಡಿಯೋಸ್ ಫ್ರಮ್ ಆ ಪ್ಲೇಲಿಸ್ಟ್</string>
+    <string name="options">ಆಪ್ಷನ್</string>
+    <string name="share_fail_msg">ಅನೆಬೆಲ್ ಟು ಮ್ಯಾಚ್ ಯುಆರ್ಎಲ್ ಫ್ರಮ್ ಶಾರ್ಡ್ ಕಂಟೆಂಟ್</string>
+    <string name="concurrent_download">ಮಲ್ಟಿ-ತ್ರೆಡ್ಗ್ದ್ ಡೌನ್ಲೋಡ್</string>
+    <string name="concurrent_download_desc">ಡೌನ್ಲೋಡ್ ಮೋರ್ ಪಾರ್ಟ್ಸ್ ಆ ಎಂ೩ಉ೮/ಮೈಫ್ಡ್ ವೀಡಿಯೋಸ್ ಇನ್ ಪ್ಯಾರಲಲ್</string>
+    <string name="show_more_actions">ಶೋ ಮೊರೆ ಆಪ್ಷನ್</string>
+    <string name="close_never_show_again">ಡೋಂಟ್ ಶೋ ಅಪ್ ಅಗೈನ್</string>
+    <string name="download_finish_notification">ಡೌನ್ಲೋಡ್ ಫೀನಿಶೇಡ್. ಟಾಪ್ ಟು ಓಪನ್.</string>
+    <string name="channel_name">ಡೌನ್ಲೋಡ್</string>
+    <string name="battery_settings_desc">ಪ್ಲೀಸ್ ಸೆಟ್ ಬ್ಯಾಟರಿ ಯೂಸೇಜ್ ಆ ದಿಸ್ ಅಪ್ಪ ಟು \"ಉಂರೆಸ್ಟ್ರಿಕ್ಟ್ದ್\" ಇನ್ ದಿ ಸಿಸ್ಟಮ್ ಸೆಟ್ಟಿಂಗ್ಸ್ ಟು ಡೌನ್ಲೋಡ್ ಇನ್ ದಿ ಬ್ಯಾಕ್ಗ್ರೌಂಡ್.</string>
+    <string name="not_specified">ನಾಟ್ ಸ್ಪೆಸಿಫೈಡ್ (ಡೀಫಾಲ್ಟ್)</string>
+    <string name="concurrent_download_num">%d ಥ್ರೆಡ್(ಸ್) ವಸ್ಲ್ಡ್ ಬಿ ಉಸೆದ್ ಟು ಡೌನ್ಲೋಡ್ ಡ್ಯಾಶ್/ಹ್ಲ್ಸ್ ನೇಟಿವ್ ವಿಡಿಯೋ ಕಾಂಕರೆಂಟಿಲಿ.</string>
+    <string name="execute_command_notification">ರನ್ನಿಂಗ್ ಕಸ್ಟಮ್ ಕಮಂಡ್ಸ್…</string>
+    <string name="defaults">ಡೀಫಾಲ್ಟ್</string>
+    <string name="share_success_msg">ರೀಡಿಂಗ್ ವಿಡಿಯೋ ಲಿಂಕ್ ಫ್ರಮ್ ಶಾರ್ಡ್ ಕಂಟೆಂಟ್…</string>
+    <string name="best_quality">ಬೆಸ್ಟ್ ಕ್ವಾಲಿಟಿ</string>
+    <string name="download_notification_desc">"ನೋಟಿಫೈ ಆಫ್ ಡೌನ್ಲೋಡೆಡ್ ಫೈಲ್ಸ್ ಅಂಡ್ ಪ್ರೋಗ್ರೆಸ್"</string>
+    <string name="fetching_playlist_info">ಫೆಚಿಂಗ್ ಪ್ಲೇಲಿಸ್ಟ್ ಇನ್ಫೋ…</string>
+    <string name="download_range_selection">ಪ್ಲೇಲೀಸ್ಟ್ ಸೆಲೆಕ್ಷನ್</string>
+
+    <string name="download_range_desc">"ಸ್ಪೆಸಿಫೈ ದ ರೇಂಜ್ ಆಫ್ ವೀಡಿಯೋಸ್ ಟು ಡೌನ್ಲೋಡ್ ಫ್ರೇಮ್ ದ ಪ್ಲೇಲಿಸ್ಟ್ \"%3$s\" (ಫ್ರಮ್ %1$d ಟು %2$d)"</string>
+    <string name="from">ಸ್ಟಾರ್ಟ್</string>
+    <string name="to">ಎಂಡ್</string>
+    <string name="invalid_index_range">ಇನ್ವ್ಯಾಲಿಡ್ ಇಂಡೆಕ್ಸ್ ರೇಂಜ್</string>
+    <string name="playlist_indicator_text">ಡೌನ್ಲೋಡ್ ಪ್ಲೇಲಿಸ್ಟ್ (%1$d/%2$d)…</string>
+    <string name="audio_directory">ಆಡಿಯೋ ಫೋಲ್ಡರ್</string>
+    <string name="download_directory">ಡೌನ್ಲೋಡ್ ಡೈರೆಕ್ಟರಿ</string>
+    <string name="download_directory_desc">ಸೆಲಕ್ಟ್ ವೆರ್ ಟು ಸ್ಟೋರ್ ವಿಡಿಯೋ ಅಂಡ್ ಆಡಿಯೋ ಫೈಲ್ಸ್</string>
+    <string name="subdirectory">ಸೇವ್ ಟು ಸಬ್ಡೈರೆಕ್ಟರಿ</string>
+    <string name="subdirectory_desc">ಸೇವ್ ಫೈಲ್ಸ್ ಇನ್ ಫೋಲ್ಡರ್ಸ್ ನೇಮ್ಡ್ ಆಸ್ ರೆಸ್ಪೆಕ್ಟೀವ್ ಫೀಲ್ಡ್ಸ್</string>
+    <string name="permission_issue">ಸ್ಟೋರೇಜ್ ಪರ್ಮಿಷನ್ ಇಶ್ಶು</string>
+    <string name="permission_issue_desc">ಡೈರೆಕ್ಟರೀಸ ಔಟ್ಸೈಡ್ ಡೌನ್ಲೋಡ್/ ಅಂಡ್ ಡಾಕ್ಯುಮೆಂಟ್ಸ್ /ಆರ್ ನಾಟ್ ಸಪೋರ್ಟೆಡ್</string>
+    <string name="battery_configuration">ಬ್ಯಾಟರಿ ಕಾನ್ಫಿಗರೇಷನ್ </string>
+    <string name="battery_configuration_desc">ಇಗ್ನೋರ್ ಬ್ಯಾಟರಿ ಆಪ್ಟಿಮೈಸೇಶನ್ ಫಾರ್ ದಿಸ್ ಆಪ್ ಟು ಡೌನ್ಲೋಡ್ ಇನ್ ದ ಬ್ಯಾಗ್ರೌಂಡ್ </string>
+    <string name="service_title">ಕ್ಲಿಕ್ ಮೀಡಿಯಾ ಈಸ್ ಡೌನ್ಲೋಡಿಂಗ್…</string>
+    <string name="unknown_error">ಅನ್ನೋನ್ ಎರರ್</string>
+    <string name="translate">ಟ್ರಾನ್ಸಲೆಟ್</string>
+    <string name="translate_desc">ಹೆಲ್ಪ ಟ್ರಾನ್ಸಲೆಟ್ ದಿಸ್ ಆಪ್ ಆನ್ ಹೋಶ್ಟೆಡ್ ವೆಬ್ಲೇಟ್</string>
+    <string name="prefix">ಪ್ರಿಫಿಕ್ಸ್</string>
+    <string name="embed_subtitles"> ಎಂಬೆಡ್ ಸಬ್ಟೈಟಲ್ಸ್</string>
+    <string name="embed_subtitles_desc">ಎಂಬೆಡ್ provide ಪ್ರೊವೈಡೆಡ್  ಸಬ್ಟೈಟಲ್ಸ್ ಇನ್ಟೂ ವೀಡಿಯೋಸ್ ಇಫ್ ಅವೆಲೇಬಲ್</string>
+    <string name="new_template">ನ್ಯೂ ಟೆಂಪ್ಲೇಟ್</string>
+    <string name="template_label">ಲೇಬಲ್</string>
+    <string name="remove_template">ರಿಮೂ?</string>
+    <string name="remove_template_desc">ರಿಮೂ \"%1$s\" ಫ್ರಮ್ ಕಮಾಂಡ್ ಟೆಂಪ್ಲೇಟ್ಸ್ ಫಾರ್ ಗುಡ್?</string>
+    <string name="template_selection"> ಟೆಂಪ್ಲೇಟ್ ಸೆಲೆಕ್ಷನ್</string>
+    <string name="custom_command_template_desc">ಎಡಿಟ್ ಅಂಡ್ ಮ್ಯಾನೇಜ್ ಕಮ್ಯಾಂಡ್ ಟೆಂಪ್ಲೇಟ್ಸ್ </string>
+    <string name="downloading_indicator_text">ಡೌನ್ಲೋಡ್ ಇನ್ ಪ್ರೋಗ್ರೆಸ್…</string>
+    <string name="task_canceled">ಡೌನ್ಲೋಡ್ ಟಾಸ್ಕ್ ಕ್ಯಾನ್ಸಲ್ಡ್</string>
+    <string name="github_issue">ಗಾಟ್ಹಬ್ ಇಶೂ</string>
+    <string name="github_issue_desc">ಸಬ್ಮಿಟ್ ಆನ್ ಇಶೂ ಫಾರ್ ಬಗ್ ರಿಪೋರ್ಟ ಆರ್ ಫೀಚರ್ ರಿಕ್ವೆಶ್ಟ್</string>
+    <string name="info_copied">ಇನ್ಫೊ ಕಾಪೀಡ್ ಟು ಕ್ಲಿಪ್ಬೊರ್ಡ್</string>
+
+    <string name="la_nb" translatable="false">Bokmål</string>
+    <string name="la_cs" translatable="false">Čeština</string>
+    <string name="la_de" translatable="false">Deutsch</string>
+    <string name="la_zh_CN" translatable="false">简体中文</string>
+    <string name="la_en_US" translatable="false">English</string>
+    <string name="la_fr" translatable="false">Français</string>
+    <string name="la_da" translatable="false">Dansk</string>
+    <string name="la_es" translatable="false">Español</string>
+    <string name="la_tr" translatable="false">Türkçe</string>
+    <string name="la_ru" translatable="false">Русский</string>
+    <string name="la_ar" translatable="false">العربية</string>
+    <string name="la_uk" translatable="false">Українська</string>
+    <string name="la_in" translatable="false">Indonesia</string>
+    <string name="la_fa" translatable="false">فارسی</string>
+    <string name="la_fil" translatable="false">Filipino</string>
+    <string name="la_it" translatable="false">Italiano</string>
+    <string name="la_nl" translatable="false">Nederlands</string>
+    <string name="la_pt_BR" translatable="false">Português Brasileiro</string>
+    <string name="la_ja" translatable="false">日本語</string>
+    <string name="la_pl" translatable="false">Polski</string>
+    <string name="la_hu" translatable="false">Magyar</string>
+    <string name="la_be" translatable="false">беларуская</string>
+    <string name="la_ms" translatable="false">Melayu</string>
+    <string name="la_zh_TW" translatable="false">繁體中文</string>
+    <string name="la_vi" translatable="false">Tiếng Việt</string>
+    <string name="la_hr" translatable="false">Hrvatski</string>
+    <string name="la_eu" translatable="false">Euskara</string>
+    <string name="la_hi" translatable="false">हिन्दी</string>
+    <string name="la_ml" translatable="false">മലയാളം</string>
+    <string name="la_si" translatable="false">සිංහල</string>
+    <string name="la_sr" translatable="false">Српски</string>
+    <string name="la_az" translatable="false">Azərbaycanca</string>
+    <string name="la_nn" translatable="false">Nynorsk</string>
+    <string name="la_pa" translatable="false">ਪੰਜਾਬੀ</string>
+    <string name="la_ta" translatable="false">தமிழ்</string>
+    <string name="la_ko" translatable="false">한국어</string>
+    <string name="la_sv" translatable="false">Svenska</string>
+    <string name="la_pt" translatable="false">Português</string>
+    <string name="la_kn" translatable="false">ಕನ್ನಡ</string>
+    <string name="status_enqueued">ಎನ್ಕ್ಯೂಡ್</string>
+    <string name="status_completed">ಕಂಪ್ಲೀಟೆಡ್</string>
+    <string name="status_downloading">ಡೌನ್ಲೋಡಿಂಗ್ </string>
+    <string name="status_canceled">ಕ್ಯಾನ್ಸಲ್ಡ್</string>
+    <string name="status_fetching_video_info">ಫೆಚಿಂಗ್ ಇನ್ಫೊ</string>
+    <string name="open_file">ಓಪನ್ ಫೈಲ್</string>
+    <string name="restart">ರಿಸ್ಟಾರ್ಟ್</string>
+    <string name="status_error">ಎರರ್</string>
+    <string name="copy_link">ಕಾಪಿ ಲಿಂಕ್</string>
+    <string name="copy_error_report">ಎರರ್ ರಿಪೋರ್ಟ್</string>
+    <string name="video_resolution">ವೀಡಿಯೋ ರೆಸಲ್ಯೂಶನ್ </string>
+    <string name="video_file_size"> ವೀಡಿಯೋ ಫೈಲ್ ಸೈಜ್</string>
+    <string name="export_to_clipboard">ಎಕ್ಸ್ಪೋರ್ಟ್ ಟು ಕ್ಲಿಪ್ಬೊರ್ಡ್</string>
+    <string name="import_from_clipboard">ಇಂಪೋರ್ಟ್ ಫ್ರಮ್ ಕ್ಲಿಪ್ಬೊರ್ಡ್</string>
+    <string name="template_exported"> ಎಕ್ಸ್ಪೋರ್ಟೆಡ್ %1$d ಟೆಂಪ್ಲೇಟ್(s)</string>
+    <string name="template_imported"> ಇಂಪೋರ್ಟೆಡ್ %1$d ಟೆಂಪ್ಲೇಟ್(s)</string>
+    <string name="download_task_count">%1$d ಡೌನ್ಲೋಡ್ ಟಾಸ್ಕ್ಸ್</string>
+    <string name="recently_added">ರೀಸೆಂಟ್ಲಿ ಆಡೆಡ್</string>
+    <string name="multiselect_item_count">%1$d ವೀಡಿಯೋ (s), %2$d ಆಡಿಯೋ ಫೈಲ್(s)</string>
+    <string name="delete_multiple_items_msg">ರಿಮೂ %1$d ಐಟಂ(s) ಫ್ರಮ್ ಯುವರ್ ಡೌನ್ಲೋಡ್ ಹಿಸ್ಟರಿ ಫಾರ್ ಗುಡ್?</string>
+    <string name="sponsorblock" translatable="false">ಸ್ಪಾನ್ಸರ್ ಬ್ಲಾಕ್</string>
+    <string name="sponsorblock_desc">ರಿಮೂ ಆರ್ ಮಾರ್ಕ್ ಸೆಗ್ಮೆಂಟ್ಸ್ ಇನ್ ವೀಡಿಯೋಸ್ ವಿತ್ ಸ್ಪಾನ್ಸರ್ ಬ್ಲಾಕ್ ಎಪಿಐ</string>
+    <string name="sponsorblock_categories_desc">ಸ್ಪೆಸಿಫೈ ದಿ ಸ್ಪಾನ್ಸರ್ ಬ್ಲಾಕ್ ಕ್ಯಾಟಗರೀಸ್ ಟು ರಿಮೂ ಆರ್ ಮಾರ್ಕ್ ಇನ್ ದ ವಿಡಿಯೋ ಫೈಲ್</string>
+    <string name="sponsorblock_categories">ಸ್ಪಾನ್ಸರ್ ಬ್ಲಾಕ್ ಕ್ಯಾಟಗರೀಸ್</string>
+    <string name="check_for_updates">ಚೆಕ್ ಫಾರ್ ಅಪ್ಡೇಟ್ಸ್</string>
+    <string name="check_for_updates_desc">ಅಟೊಮೆಟಿಕಲೀ ಚೆಕ್ ಫಾರ್ ದ ಲೇಟೆಸ್ಟ್ ಆನ್ ಗಿಟ್ಹಬ್</string>
+    <string name="app_up_to_date">ದಿ ಕರೆಂಟ್ ವರ್ಶನ್ ಈಸ್ ಅಪ್ ಟು ಡೇಟ್</string>
+    <string name="app_update_failed">ಫೇಲ್ಡ್ ಟು ಅಪ್ಡೇಟ್ ಲೇಟೆಸ್ಟ್ ವರ್ಷನ್</string>
+    <string name="update">ಅಪ್ಡೇಟ್</string>
+    <string name="aria2" translatable="false">ಆರೀಯಾ2</string>
+    <string name="aria2_desc">ಯೂಸ್ ಆರೀಯಾ2c ಆಸ್ ದ ಎಕ್ಟರ್ನಲ್ ಡೌನ್ಲೋಡರ್</string>
+    <string name="cookies">ಕುಕೀಸ್</string>
+    <string name="cookies_desc">ಯೂಸ್ ನೆಟ್ಸ್ಕೇಪ್ ಫಾರ್ಮೇಟೆಡ್ ಕುಕೀಸ್ ಫಾರ್ ಡೌನ್ಲೋಡ್ಸ್</string>
+    <string name="cookies_file_name" translatable="false">ಕುಕೀಸ್.txt</string>
+    <string name="clear_temp_files">ಕ್ಲಿಯರ್ ಟೆಂಪೊರರಿ ಫೈಲ್ಸ್</string>
+    <string name="clear_temp_files_desc">ಡಿಲೀಟ್ ಆಲ್ ಟೆಂಪೊರರಿ ಫೈಲ್ಸ್ ಫ್ರಮ್  ದಿ ಟೆಂಪೊರರಿ ಡೈರೆಕ್ಟರಿ</string>
+    <string name="clear_temp_files_count">ಡಿಲೀಟೆಡ್ %1$d ಟೆಂಪೊರರಿ ಫೈಲ್(s)</string>
+    <string name="clear_temp_files_info"> ಟೆಂಪೊರರಿ ಫೈಲ್ಸ್ ಕ್ಯಾನ್ ಬಿ ಯೂಸ್ಡ್ ಟು ರೆಸ್ಯೂಮ್ ಕ್ಯಾನ್ಸಲ್ಡ್ ಡೌನ್ಲೋಡ್ಸ್.ಬಿ ಯೂಸ್ಡ್ ಟು ರೆಸೂಮ್ ಕ್ಯಾನ್ಸಲ್ಲ್ಡ್ ಡೌನ್ಲೋಡ್ಸ್. ಆರ್ ಯು ಸ್ಯೂರ್ ಟು ಡಿಲೀಟ್ ಆಲ್ ಆಫ್ ದೀಸ್ ಫೈಲ್ಸ್?\n\nಯು ಕ್ಯಾನ್ ಅಕ್ಸೆಸ್ ದೀಸ್ ಫೈಲ್ಸ್ ಇನ್ %1$s</string>
+    <string name="multiselect_mode">ಮಲ್ಟಿಸೆಲೆಕ್ಟ್  ಮೋಡ್</string>
+    <string name="private_mode">ಇನ್ಕಾಗ್ನಿಟೊ</string>
+    <string name="private_mode_desc">ಡಿಸೇಬಲ್ ಡೌನ್ಲೋಡ್ ಹಿಸ್ಟರಿ</string>
+    <string name="dynamic_color">ಡೈನಮಿಕ್ ಕಲರ್</string>
+    <string name="dynamic_color_desc">ಅಪ್ಲೈ ಕಲರ್ಸ್ ಫ್ರಮ್ ವಾಲ್ಪೇಪರ್ಸ್ ಟು ದ ಆಪ್ ಥೀಮ್</string>
+    <string name="download_with_cellular">ಡೌನ್ಲೋಡ್ ಯುಸಿಂಗ್ ಸೆಲ್ಯೂಲರ್</string>
+    <string name="download_with_cellular_desc">ಅಲೊ ಡೌನ್ಲೋಡಿಂಗ್ ಮೀಡಿಯಾ ವೆನ್ ಕನೆಕ್ಟೆಡ್ ಟು ಮೀಟರ್ಡ್ ನೆಟ್ವರ್ಕ್ಸ್</string>
+    <string name="download_disabled_with_cellular">ಡೌನ್ಲೋಡಿಂಗ್ ವಿತ್ ಸೆಲ್ಯೂಲರ್ ನೆಟ್ವರ್ಕ್ ಈಸ್ ಡಿಸೇಬಲ್ಡ್ ಅಕಾರ್ಡಿಂಗ್ ಟು ಯುವರ್ ಸೆಟ್ಟಿಂಗ್ಸ್ </string>
+    <string name="file_unavailable">ದಿಸ್ ಫೈಲ್ ಈಸ್ ನೊ ಲಾಂಗರ್ ಅವೆಲೇಬಲ್</string>
+    <string name="network">ನೆಟ್ವರ್ಕ್</string>
+    <string name="rate_limit">ರೇಟ್ ಲಿಮಿಟ್</string>
+    <string name="rate_limit_desc"> ಲಿಮಿಟ್ ದ ಮ್ಯಾಕ್ಸಿಮಮ್ ರೇಟ್ ಫಾರ್ ಡೌನ್ಲೋಡ್ಸ</string>
+    <string name="max_rate">ಮ್ಯಾಕ್ಸಿಮಮ್ ರೇಟ್ </string>
+    <string name="high_contrast">ಹೈ ಕಾನ್ಟ್ರಶ್ಟ್ ಡಾರ್ಕ್ ಥೀಮ್</string>
+    <string name="invalid_input">ಇನ್ವ್ಯಾಲಿಡ್ ಇನ್ಪುಟ್</string>
+    <string name="lowest_quality">ಲೋವೆಸ್ಟ್ ಕ್ವಾಲಿಟಿ</string>
+    <string name="download_queue" translatable="false">ಡೌನ್ಲೋಡ್ ಕ್ಯೂ</string>
+    <string name="unavailable">ಅನ್ಅವೆಲೇಬಲ್</string>
+    <string name="format_settings_desc">,ಫೈಲ್ ಫಾರ್ಮ್ಯಾಟ್, ವೀಡಿಯೋ ಕ್ವಾಲಿಟಿ, ಸಬ್ಟೈಟಲ್ಸ್</string>
+    <string name="general_settings_desc">Yt-dlp ವರ್ಶನ್, ನೋಟಿಫಿಕೇಷನ್, ಪ್ಲೇಲಿಸ್ಟ್</string>
+    <string name="network_settings_desc">ರೇಟ್ ಲಿಮಿಟ್, ಡೌನ್ಲೋಡರ್, ಕುಕೀಸ್</string>
+    <string name="disable_preview">ಡಿಸೇಬಲ್ ಪ್ರಿವೀವ್</string>
+    <string name="disable_preview_desc">ನೊ ಡಿಸ್ಪ್ಲೇ ಆಫ್ ಥಂಬ್ನೇಲ್ ಡ್ಯೂರಿಂಗ್ ಡೌನ್ಲೋಡ್</string>
+    <string name="privacy">ಪ್ರೈವಸಿ</string>
+    <string name="use_custom_command">ಯೂಸ್ ಕಶ್ಟಮ್ ಕಮ್ಯಾಂಡ್</string>
+    <string name="private_directory">ಪ್ರೈವೇಟ್ ಡೈರೆಕ್ಟರಿ</string>
+    <string name="private_directory_desc">ಸ್ಟೋರ್ ಡೌನ್ಲೋಡ್ಸ್ ಇನ್ ಎ ಹಿಡನ್ ಡೈರೆಕ್ಟರಿ</string>
+    <string name="crop_artwork">ಕ್ರಾಪ್ ಆರ್ಟ್ವಕ್</string>
+    <string name="crop_artwork_desc"> ಕ್ರಾಪ್ ಎಂಬೆಡೆಡ್ ಇಮೇಜ್ ಇನ್ಟು ಸ್ಕೊಯರ್</string>
+    <string name="download_selection_desc">ಸೆಲೆಕ್ಟ್ ವೀಡಿಯೋಸ್ ಟು ಡೌನ್ಲೋಡ್ ಫ್ರಮ್ ದ ಪ್ಲೇಲಿಸ್ಟ್ \"%1$s\"</string>
+    <string name="select_all"> ಸೆಲೆಕ್ಟ್ ಆಲ್</string>
+    <string name="selected_item_count">%1$d ಸೆಲೆಕ್ಟೆಡ್</string>
+    <string name="video_only">ವೀಡಿಯೋ (ನೊ ಆಡಿಯೋ)</string>
+    <string name="suggested">ಸಜೆಶ್ಟೆಡ್</string>
+    <string name="format_selection">ಫಾರ್ಮ್ಯಾಟ್ ಸೆಲೆಕ್ಷನ್</string>
+    <string name="format_selection_desc">ಸೆಲೆಕ್ಟ್  ದಿ  ಫಾರ್ಮ್ಯಾಟ್  ಟು  ಡೌನ್ಲೋಡ್  ಬಿಫೋರ್  ಸ್ಟಾರ್ಟಿಂಗ್  ದಿ  ಡೌನ್ಲೋಡ್</string>
+    <string name="generate_new_cookies">ಜನರೇಟ್ ನವ ಕುಕೀಸ್</string>
+    <string name="use_cookies">Use Cookies</string>
+    <string name="remove_cookie_profile_desc">ರೇಂವ್ ದಿಸ್ ಎಂಟ್ರಿ ಫಾರ್ \"%1$s\"? ಪ್ಲೀಸ್ ನೋಟ್ ಥಟ್ ದಿ ಕುಕೀಸ್ ಸ್ಟೋರ್ಡ್ ಫಾರ್ ದಿಸ್ ಸೈಟ್ ವಿಲ್ ನಾಟ್ ಬಿ ಕ್ವೀರ್ಡ್. </string>
+    <string name="custom_command_enabled_hint">ಸಂ ಓಪ್ಟಿವ್ನ್ಸ್ ಅರೆ ಅನ್ಅವೈಲಬಲೆ ವೆನ್ ಯೂಸಿಂಗ್ ಕಸ್ಟಮ್ ಕಮಾಂಡ್</string>
+    <string name="how_does_it_work">ಹೌ ಡಸ್ ಇಟ್ ವರ್ಕ್?</string>
+    <string name="cookies_usage_msg">ಡೌನ್ಲೋಅಡಿಂಗ್ ಫ್ರಮ್ ಸಂ ಸಿಟೀಸ್ ರೆಕ್ಸ್ನ್ರ್ಸ್ ಅಕೌಂಟ್ ಔಥೆಂಟಿಕೇಟಿವ್ನ್ ಇನ್ಫಾರ್ಮಶನ್. ಕ್ಲಿಕ್ \"ಜನರೇಟ್ ನವ ಕುಕೀಸ್\", ಎಂಟರ್ ದಿ ಯುಆರ್ಎಲ್ ಆ ದಿ ವೆಬ್ಸೈಟ್ ಅಂಡ್ ಥೇನ್ ಲಾಗ್ ಇನ್ ವಿಥ್ ಯುವರ್ ಅಕೌಂಟ್ ಇನ್ ದಿ ಬ್ರೌಸರ್ ಪೇಜ್, ದಿ ಆಪ್ಪ್ ವಿಲ್ ಜನರೇಟ್ ಇಟ್ ಫಾರ್ ಯು.</string>
+    <string name="custom_command_usage_msg">yt-dlp ಐಸ್ ಆ ಪವರ್ಫುಲ್ ಕಮಾಂಡ್-ಲೈನ್ ಟೂಲ್ ಫಾರ್ ಡೌನ್ಲೋಅಡಿಂಗ್ ವೀಡಿಯೋಸ್. ಕ್ವಿಕ್ ಮೀಡಿಯಾ ಗ್ರಾಬರ್ ಮೇಕ್ಸ್ ಇಟ್ ಅಶೀರ್ ಟು ಉಷೆ yt-dlp ಬೈ ಪ್ರೋವಿದಿಂಗ್ ಎನ್ ಇಂಟುಲಿತಿವೆ ಗುಯ್, ಪ್ರೆಸೆಟ್ಸ್ ಫಾರ್ ಕಾಮನ್ ಕಮಂಡ್ಸ್, ಅಂಡ್ ಇತರ ಅಡಿಷನಲ್ ಫೆಅತುರ್ಸ್.\n\n ಫಾರ್ ಅದ್ವನ್ಸೆದ್ ಯೂಸೇಜ್ ಆ yt-dlp, ಕ್ವಿಕ್ ಮೀಡಿಯಾ ಗ್ರಾಬರ್ ಅಲ್ಲೋಸ್ ಯು ಟು ಕ್ರೆತೆ, ಸೇವ್ ಅಂಡ್ ಎಕ್ಸಿಕ್ಯೂಟ್ ಕಸ್ಟಮ್ ಕಮಾಂಡ್ ಟೆಂಪ್ಲೇಟ್ಸ್ ಡೈರೆಕ್ಟ್ಲಿ, ಜಸ್ಟ್ ಲೈಕ್ ಇನ್ ಆ ಟರ್ಮಿನಲ್.\n\n ವೆನ್ ಯೂಸಿಂಗ್ ಕಸ್ಟಮ್ ಕಮಂಡ್ಸ್, ಮೋಸ್ಟ ಆ ದಿ ಗುಯ್ ಓಪ್ಟಿವ್ನ್ಸ್ ಅಂಡ್ ಫೀಟರ್ಸ್ ವಸ್ಲ್ಡ್ ಬಿ ಡಿಸೇಬಲ್ಡ.</string>
+    <string name="telegram_channel">ಟೆಲಿಗ್ರಾಂ ಚಾನೆಲ್ </string>
+    <string name="matrix_space">ಮ್ಯಾಟ್ರಿಕ್ಸ್ ಸ್ಪೇಸ್ </string>
+    <string name="sdcard_directory">ಸ್ದ ಕಾರ್ಡ್ ಫೋಲ್ಡರ್ </string>
+    <string name="auto_subtitle">ಆಟೋಮ್ಯಾಟಿಕ್ ಕ್ಯಾಪ್ಟಿವ್ನ್ಸ್ </string>
+    <string name="auto_subtitle_desc">ಡೌನ್ಲೋಡ್ ಆಟೋ-ಜೆನೆರೇಟೆಡ್ ಕ್ಯಾಪ್ಟಿವ್ನ್ಸ್</string>
+    <string name="title_activity_share">ಕ್ವಿಕ್ ಡೌನ್ಲೋಡ್ </string>
+    <string name="abs_hint">ಮೋಸ್ಟ ವಿಡಿಯೋ ಸ್ಟ್ರೀಮಿಂಗ್ ಪ್ಲಾಟ್ಫಾರ್ಮ್ಸ್ ಡೆಲಿವೆರಿ ಆಡಿಯೋ ಅಂಡ್ ವಿಡಿಯೋ ಸೇಫಾರ್ಟೇಲ್ಯ್, ಯು ಕ್ಯಾನ್ ಸೆಲೆಕ್ಟ್ ಅಂಡ್ ಮರ್ಜ ಎನ್ ಆಡಿಯೋ-ಓನ್ಲಿ ಫಾರ್ಮ್ಯಾಟ್ ವಿಥ್ ಆ ವಿಡಿಯೋ-ಓನ್ಲಿ ಫಾರ್ಮ್ಯಾಟ್ ಟು ಆ ಸಿಂಗಲ್ ವಿಡಿಯೋ.</string>
+    <string name="video_title_sample_text">ವಿಡಿಯೋ ಟೈಟಲ್ ಸ್ಯಾಂಪಲ್ ಟೆಕ್ಸ್ಟ್ </string>
+    <string name="video_creator_sample_text">ವಿಡಿಯೋ ಕ್ರಿಯೇಟರ್ ಸ್ಯಾಂಪಲ್ ಟೆಕ್ಸ್ಟ್ </string>
+    <string name="subtitle">ಸಬ್ಟೈಟಲ್ </string>
+    <string name="download_subtitles">ಡೌನ್ಲೋಡ್ ಸಬ್ಟೈಟಲ್ಸ್</string>
+    <string name="subtitle_language">ಸಬ್ಟೈಟಲ್ ಲಾಂಗ್ವೆಜಸ್  </string>
+    <string name="subtitle_desc">ಲಾಂಗ್ವೆಜಸ್, ಎಂಬೆಡ್ ಸಬ್ಟೈಟಲ್ಸ್ ,ಆಟೋ ಕ್ಯಾಪ್ಟಿವ್ನ್ಸ್</string>
+    <string name="copy_log">ಕಾಪಿ ಲಾಗ್ </string>
+    <string name="clear">ಕ್ಲಿಯರ್</string>
+    <string name="edit_shortcuts">ಎಡಿಟ್ ಶಾರ್ಟ್ಕಟ್ಸ್</string>
+    <string name="add">ಆಡ್</string>
+    <string name="shortcuts">ಶಾರ್ಟ್ಕಟ್ಸ್</string>
+    <string name="edit_shortcuts_desc">ಎಡಿಟ್ ದಿ ಕಸ್ಟಮ್ ಶಾರ್ಟ್ಕಟ್ಸ್ ಥಟ್ ಕ್ಯಾನ್ ಬಿ ಯೂಸ್ದ್ ಟು ಕಂಪೋಸ್ ಕಮಾಂಡ್ ಟೆಂಪ್ಲೇಟ್ಸ್.</string>
+    <string name="running_tasks">ರನ್ನಿಂಗ್ ಟಾಸ್ಕ್ಸ್ </string>
+    <string name="show_logs">ಶೋ ಲಾಗ್ </string>
+    <string name="logs">ಲಾಗ್ </string>
+    <string name="subtitle_sponsorblock">ಸುಭ್ತಿಟ್ಲೆಸ್ ಮೇ ಬಿ ಮಿಸ್ಟಿಮೇಡ್ ವೆನ್ ರೆಮೋವಿಂಗ್ ಸ್ಪೋನ್ಸೋರ್ಬ್ಲಾಕ್ ಸೇಜಿಮೆಂಟ್ಸ್.</string>
+    <string name="embed_subtitles_mkv_msg">ಟು ಎಂಬೆಡ್ ಸುಭ್ತಿಟ್ಲೆಸ್, ವೀಡಿಯೋಸ್ ವಿಲ್ ಬಿ ರೇಂಕ್ಸ್ಗ್ದ್ ಇಂಟು ಮೈಕ್ವ್ ಕಂಟೇನರ್. ಯು ಕ್ಯಾನ್ ಯೂಸ್ ವಾಲ್ಚ್ ಮೀಡಿಯಾ ಪ್ಲೇಯರ್ ಓರ್ ಇತರ ಕಂಪತಿಬ್ಲೆ ಆಪ್ಸ್ ಟು ವಾಚ್ ವೀಡಿಯೋಸ್ ವಿಥ್ ಎಂಬೆಡೆಡ್ ಸುಭ್ತಿಟ್ಲೆಸ್.</string>
+    <string name="filesize_mb">%.2f ಎಂಬಿ </string>
+    <string name="filesize_gb">%.2f ಜಿಬಿ </string>
+    <string name="share">ಶೇರ್ </string>
+    <string name="stable_channel">ಸ್ಟೇಬಲ್</string>
+    <string name="pre_release_channel">ಪ್ರಿವ್ಯೂ</string>
+    <string name="update_channel_desc">ಇನ್ಸ್ಟಾಲ್ ಪ್ರಿ-ರಿಲೀಸ್ ಬಯ್ಲ್ಡ್ಸ್ ಟು ಪ್ರಿವ್ಯೂ ನವ ಫೆಅತುರ್ಸ್ ಅಂಡ್ ಚಂಗೇಸ್.\n\n ತೇರು ವಿಲ್ ಬಿ ಸಂ ಇನ್ಸ್ಟಬಿಲಿಟಿ ಇನ್ ಥೆಸೆ ವೆರಿಸಿಯೋನ್ಸ್, ಸೊ ಪ್ಲೀಸ್  ಡಾನ್\'ಟಿ  ಹೆಸಿಟೇಟ್ ಟು ಗಿವೆ ಅಸ್ ಫೀಡ್ಬ್ಯಾಕ್ ಇಫ್ ಯು ಎಕ್ಸ್ಪೀರಿಯೆನ್ಸ್ ಎನಿ ಪ್ರಾಬ್ಲೆಮ್ಸ್ ಟು ಹೆಲ್ಪ್ ಅಸ್ ಇಂಪ್ರೂವ್ ದಿ ಆಪ್ಪ್ ಫಾರ್ ದಿ ಫ್ಯೂಚರ್.</string>
+    <string name="update_channel">ಅಪ್ಡೇಟ್ ಚಾನೆಲ್ </string>
+    <string name="auto_update">ಆಟೋ ಅಪ್ಡೇಟ್</string>
+    <string name="enable_auto_update">ಎನಬಲೆ ಆಟೋ ಅಪ್ಡೇಟ್ </string>
+    <string name="discard">ಡಿಸ್ಕ್ಯಾರ್ಡ್ </string>
+    <string name="apply">ಅಪ್ಲೈ </string>
+    <string name="clip_video">ಕ್ಲಿಪ್ ವಿಡಿಯೋ</string>
+    <string name="clip_start">ಸ್ಟಾರ್ಟ್</string>
+    <string name="clip_end">ಎಂಡ್</string>
+    <string name="audio_format_preference">ಪ್ರಿಫರ್ಡ ಆಡಿಯೋ ಫಾರ್ಮ್ಯಾಟ್</string>
+    <string name="unlimited">ಅನ್ಲಿಮಿಟೆಡ್</string>
+    <string name="lowest_bitrate">ಲೌಸ್ಟ್ ಬಿಟ್ರೇಟ್</string>
+    <string name="audio_quality">ಆಡಿಯೋ ಕ್ವಾಲಿಟಿ</string>
+    <string name="audio_quality_desc">ಲಿಮಿಟ್ ಆಡಿಯೋ ಬಿಟ್ರೇಟ್ ವೆನ್ ಮಲ್ಟಿಪಲ್ ಕ್ವಾಲಿಟಿಸ್ ಅರೆ ಪ್ರೆಸೆಂಟ್</string>
+    <string name="format_sorting">ಫಾರ್ಮ್ಯಾಟ್ ಸಾರ್ಟಿಂಗ್</string>
+    <string name="format_sorting_desc">ಸಾರ್ಟಿಂಗ್ ಫಾರ್ಮಟ್ಸ್ ವಿಥ್ ದಿ -S ಒಪ್ಶನ್ ಆಫ್ yt-dlp</string>
+    <string name="import_from_preferences">ಇಂಪೋರ್ಟ್</string>
+    <string name="title">ಟೈಟಲ್</string>
+    <string name="rename">ರಿನೇಮ್ </string>
+    <string name="second">ಸೆಕೆಂಡ್</string>
+    <string name="minute">ಮಿನಿಟ್</string>
+    <string name="clear_all_cookies">ಕ್ಲಿಯರ್ ಎಲ್ಲ ಕುಕೀಸ್</string>
+    <string name="clear_all_cookies_desc">ಡಿಲೀಟ್ ಎಲ್ಲ ದಿ ಕುಕೀಸ್ ಸ್ಟೋರ್ಡ್ ಇನ್ ದಿ ಆಪ್ಪ್ ಫಾರ್ ಗುಡ್?</string>
+    <string name="temporary_directory_desc">ಸ್ಟೋರ್ ಟೆಂಪರರಿ ಫೈಲ್ಸ್ ಇನ್ ದಿ ಇಂಟರ್ನಲ್ ಡೈರೆಕ್ಟರಿ</string>
+    <string name="sponsor">ಸ್ಪಾನ್ಸರ್</string>
+    <string name="sponsor_desc">ಸಪೋರ್ಟ್ ದಿಸ್ ಆಪ್ಪ್ ಬೈ ಸ್ಪೋನ್ಸೋರಿಂಗ್ ಆನ್ ಗಿಟ್ಹಬ್</string>
+    <string name="sponsor_msg">ಕ್ವಿಕ್ ಮೀಡಿಯಾ ಗ್ರಾಬರ್ ವಿಲ್ ಬಿ ಆಲ್ವೇಸ್ ಫ್ರೀ ಅಂಡ್ ಓಪನ್ ಸೊರ್ಸ್ ಫಾರ್ ಎವೆರಿನ್. ಇಫ್ ಯು ಲೈಕ್ ಇಟ್, ಪ್ಲೀಸ್ ಕನ್ಸಿಡರ್ ಸ್ಪೋನ್ಸೋರಿಂಗ್ ಮೇ ಆನ್ ಗಿಟ್ಹಬ್!</string>
+    <string name="feedback">ಫೀಡ್ಬ್ಯಾಕ್</string>
+    <string name="sponsors">ಸ್ಪೋನ್ಸೋರ್ಸ್</string>
+    <string name="audio_format">ಆಡಿಯೋ ಫಾರ್ಮ್ಯಾಟ್</string>
+    <string name="no_downloaded_media">ನೋ ಡೌನ್ಲೋಅಡೆಡ್ ಮೀಡಿಯಾ</string>
+    <string name="beta_features">ಬೀಟಾ</string>
+    <string name="enable_experimental_feature">ಎನಬಲೆ ಎಸ್ಪಿರಿಮೆಂಟಲ್ ಫೀಚರ್?</string>
+    <string name="clip_video_dialog_msg">ಡೌನ್ಲೋಡ್ಸ್ ಯೂಸಿಂಗ್ ದಿಸ್ ಫೀಚರ್ ವಿಲ್ ಬಿ ಡೆಲಿಗೇಟೆಡ್ ಟು ಫ್ಎಂಪೆಗ್ ಟು ಡೌನ್ಲೋಡ್ಸೆ ಲೆಕ್ಟೆಡ್ ಸೆಕ್ಷನ್ಸ್ ಒಫ್ ದಿ ವಿಡಿಯೋ, ದಿಸ್ ಫೀಚರ್ ಐಸ್ ಸ್ಟಿಲ್ ಎಸ್ಪಿರಿಮೆಂಟಲ್ ಅಂಡ್ ದಿ ಕಟಿಂಗ್ ವಿಲ್ ನಾಟ್ ಬಿ ಕಂಪ್ಲೇಟೇಲಿ ಅಚ್ಚುರಾಟೆ, ನಾಟ್ ಎಲ್ಲ ಫಾರ್ಮಟ್ಸ್ ಸಪೋರ್ಟ್ ದಿಸ್ ಫೀಚರ್ ಅಂಡ್ ಯು ಮೇ ಎಕ್ಸ್ಪೀರಿಯೆನ್ಸ್ ಸ್ಲೋವೆರ್ ಡೌನ್ಲೋಡ್ ಸ್ಪೀಡ್ಸ್.</string>
+    <string name="clip_video_desc">ಮೇಕ್ ವಿಡಿಯೋ ಕ್ಲಿಪ್ಸ್ ಇನ್ದಿ  ಫಾರ್ಮ್ಯಾಟ್ಸೆ ಲೆಕ್ಷನ್ ಪೇಜ್</string>
+    <string name="embed_thumbnail" translatable="false">ಎಂಬೆಡ್ ಥಂಬ್ನೇಲ್</string>
+    <string name="embed_thumbnail_desc" translatable="false">ಎಂಬೆಡ್ ತುಂಬಿನೈಲ್ಸ್ ಇಂಟು ವೀಡಿಯೋಸ್</string>
+    <string name="auto_update_disabled_msg">ಆಟೋ-ಅಪ್ಡೇಟ್ ಐಸ್ ನಾಟ್ ಅವೈಲಬಲ್ ಫಾರ್ %1$s ಬಯ್ಲ್ಡ್ಸ್. ಇಫ್ ಯು ಡಾನ್\'ಟಿ ಹಾವೇ %1$s ಇನ್ಸ್ಟಾಲ್ಲ್ಡ್ ಆನ್ ಯುವರ್ ಡಿವೈಸ್, ಓರ್ ವಸ್ಲ್ಡ್ ಲೈಕ್ ಟು ಪ್ರಿವ್ಯೂ ಉಪಕಮಿಂಗ್ ನವ ಫೆಅತುರ್ಸ್ ಇನ್ ಕ್ವಿಕ್ ಮೀಡಿಯಾ ಗ್ರಾಬ್ಬರ್ , ಪ್ಲೀಸ್ ಕನ್ಸಿಡರ್ %2$s.</string>
+    <string name="switch_to_github_builds">ಸ್ವಿಚಿಂಗ್ ಟು ಗಿತುಬ್ ಬಯ್ಲ್ಡ್ಸ್ </string>
+    <string name="okay">ಓಕೆ </string>
+    <string name="got_it">ಗಾಟ್ ಇಟ್ </string>
+    <string name="feature_unavailable">ಫೀಚರ್ ನಾಟ್ ಅವೈಲಬಲ್</string>
+    <string name="no_custom_command_tasks">ನೋ ಕಸ್ಟಮ್ ಕಮಾಂಡ್ ಟಾಸ್ಕ್ಸ್</string>
+    <string name="msg_from_developer">ಮೆಸೇಜ್ ಫ್ರಮ್ ಡೆವೆಲಪರ್</string>
+    <string name="sponsor_msg2">ಥಾಂಕ್ ಯು ವೆರಿ ಮಚ್!</string>
+    <string name="download_video_desc">ಡೌನ್ಲೋಡ್ ವೀಡಿಯೋಸ್ ಫ್ರಮ್ ದಿ ಯುಆರ್ಎಲ್ </string>
+    <string name="convert_subtitle">ಕನ್ವರ್ಟ್ ಸುಭ್ತಿಟ್ಲೆಸ್ </string>
+    <string name="convert_subtitle_desc">ಕನ್ವರ್ಟ್ ದಿ ಸುಭ್ತಿಟ್ಲೆಸ್ ಟು ಅನೊಥೆರ್ ಫಾರ್ಮ್ಯಾಟ್ </string>
+    <string name="split_video">ಸ್ಪ್ಲಿಟ್ ವಿಡಿಯೋ</string>
+    <string name="split_video_msg">ವಿಡಿಯೋ ವಿಲ್ ಬಿ ಸ್ಪ್ಲಿಟ್ ಇಂಟು %1$d ಚಾಪ್ಟರ್ಸ್</string>
+    <string name="unknown_error_title">ಊಪ್ಸ್! ಸಂಥಿಂಗ್ ವೆಂಟ್ ರಾಂಗ್</string>
+    <string name="copy_and_exit">ಕಾಪಿ ಅಂಡ್ ಎಕ್ಸಿಟ್</string>
+    <string name="expand">ಎಕ್ಸ್ಪ್ಯಾಂಡ್</string>
+    <string name="new_task">ನ್ಯೂ ಡೌನ್ಲೋಡ್ ಟಾಸ್ಕ್</string>
+    <string name="start">ಸ್ಟಾರ್ಟ್</string>
+    <string name="edit_template">ಎಡಿಟ್ \"%1$s\"</string>
+    <string name="proxy">ಪ್ರಾಕ್ಸಿ</string>
+    <string name="proxy_desc">ಉಷೆ ಪ್ರಾಕ್ಸಿ ಫಾರ್ ಇಂಟರ್ನೆಟ್ ಕಾಂನೆಕ್ಷನ್ಸ್</string>
+    <string name="legacy">ಲೆಗಸಿ</string>
+    <string name="quality">ಕ್ವಾಲಿಟಿ</string>
+    <string name="enable_notifications">ಎನಬಲೆ ನೋಟಿಫಿಕೇಷನ್ಸ್?</string>
+    <string name="enable_notifications_desc">ದಿ ಆಪ್ಪ್ ನೀಡ್ಸ್ ಯುವರ್ ಪರ್ಮಿಷನ್ ಟು ಪೋಸ್ಟ್ ನೋಟಿಫಿಕೇಷನ್ಸ್ ಅಬೌಟ್ ಡೌನ್ಲೋಡ್ ಸ್ಟೇಟಸ್ ಅಂಡ್ ಪ್ರೋಗ್ರೆಸ್.</string>
+    <string name="disable">ಡಿಸಬಲೆ</string>
+    <string name="set_directory_desc">ಟಪ್ ಟು ಸೆಟ್ ಅಪ್ ಡೈರೆಕ್ಟರಿ</string>
+    <string name="custom_command_directory">ಕಸ್ಟಮ್ ಕಮಾಂಡ್ ಡೈರೆಕ್ಟರಿ</string>
+    <string name="disabled">ಡಿಸೇಬಲ್ಡ</string>
+    <string name="folder_picker">ಫೋಲ್ಡರ್ ಫಿಕೆರ್</string>
+    <string name="custom_command_directory_desc">ಸ್ಪೆಸಿಫ್ಯ್ ದಿ ಔಟ್ಪುಟ್ ಡೈರೆಕ್ಟರಿ ವೆನ್ ಯೂಸಿಂಗ್ ಕಸ್ಟಮ್ ಕಮಂಡ್ಸ್</string>
+    <string name="prefer_compatibility_desc">ಪ್ರೆಫೆರ್ MP4(H.264) ಫಾರ್ಮಟ್ಸ್ ಫಾರ್ ಶೇರಿಂಗ್ ಟು ಇತರ ಆಪ್ಸ್</string>
+    <string name="prefer_quality_desc">ಪ್ರೆಫೆರ್ AV1, VP9 or H.265 ಫಾರ್ಮಟ್ಸ್ ಫಾರ್ ವಾಟಚಿಂಗ್ ಇನ್ ಕಂಪತಿಬ್ಲೆ ಆಪ್ಸ್</string>
+    <string name="download_type">ಡೌನ್ಲೋಡ್ ಟೈಪ್ </string>
+    <string name="custom">ಕಸ್ಟಮ್</string>
+    <string name="auto">ಆಟೋ</string>
+    <string name="commands">ಕಮಂಡ್ಸ್</string>
+    <string name="format_preference">ಫಾರ್ಮ್ಯಾಟ್ ಪ್ರೆಫೆರೆನ್ಸ್</string>
+    <string name="learn_more">ಲರ್ನ್ ಮೊರ್ </string>
+    <string name="unknown">ಅನ್ನೋನ್</string>
+    <string name="refresh_cookies_desc">ಟ್ಯಾಪ್ ಟು ಓಪನ್ ವೆಬ್ಪಗೆ ಫಾರ್ ಜೆನೆರೇಟಿಂಗ್ ನವ ಕುಕೀಸ್:</string>
+    <string name="remove_multiple_templates_msg">ರಿಮು %1$s ಫ್ರಮ್ ಕಮಾಂಡ್ ಟೆಂಪ್ಲೇಟ್ಸ್ ಫಾರ್ ಗುಡ್ ?</string>
+    <string name="ua_header">ಉಸೆರ್-ಏಜೆಂಟ್ ಹೆಡ್ಡರ್</string>
+    <string name="export_to_file">ಎಕ್ಸ್ಪೋರ್ಟ್ ಟು ಫೈಲ್</string>
+    <string name="output_template">ಔಟ್ಪುಟ್ ಟೆಂಪ್ಲೆಟ್</string>
+    <string name="presets">ಪ್ರೆಸೆಟ್ಸ್</string>
+    <string name="output_template_desc">ಸ್ಪೆಸಿಫ್ಯ್ ದಿ ಟೆಂಪ್ಲೆಟ್ ಫಾರ್ ಔಟ್ಪುಟ್ ಫೈಲ್ ನೇಮ್ಸ್</string>
+    <string name="download_archive">ಡೌನ್ಲೋಡ್ ಆರ್ಕೈವ್</string>
+    <string name="download_archive_desc">ರೆಕಾರ್ಡ್ ಡೌನ್ಲೋಅಡೆಡ್ ವಿಡಿಯೋ ಇಡ್ಸ್ ಇನ್ ಎನ್ ಆರ್ಕೈವ್ ಟು ಅವಾಯ್ಡ್ ಡೂಪ್ಲಿಕೇಟ್ ಡೌನ್ಲೋಡ್ಸ್</string>
+    <string name="clear_download_archive">ಕ್ಲಿಯರ್ ಡೌನ್ಲೋಡ್ ಆರ್ಕೈವ್?</string>
+    <string name="clear_download_archive_desc">ರಿಮೂ  %1$s ಇನ್ ದಿ ಆರ್ಕೈವ್ ಫೈಲ್ ಫಾರ್ ಗುಡ್?</string>
+    <string name="embed_metadata">ಎಂಬೆಡ್ ಮೆಟಾಡೇಟಾ</string>
+    <string name="embed_metadata_desc">ಎಂಬೆಡ್ ಮೆಟಾಡೇಟಾ ಅಂಡ್ ವಿಡಿಯೋ ಥಂಬ್ನೇಲ್ ಇಂಟು ದಿ ಆಡಿಯೋ ಫೈಲ್</string>
+    <string name="required">ರೀಕ್ವಾಯಿರ್ಡ್ </string>
+    <string name="show_all_items">ಶೋ ಎಲ್ಲ %1$d ಐಟೆಮ್ಸ</string>
+    <string name="edit_file">ಎಡಿಟ್ ಫೈಲ್</string>
+    <string name="save">ಸೇವ್</string>
+    <string name="use_format_sorting">ಉಸ್ ಫಾರ್ಮ್ಯಾಟ್ ಸಾರ್ಟಿಂಗ್ </string>
+    <string name="restrict_filenames">ರೆಸ್ಟ್ರಿಕ್ಟ್ ಫೈನಮ್ಸ್</string>
+    <string name="restrict_filenames_desc">ಲಿಮಿಟ್ ಫೈನಮ್ಸ್ ಟು ಸ್ಪೆಸಿಫಿಕ್ ಕ್ಯಾರಕ್ಟ್ರ್ಸ್ ಟು ಎಣ್ಸುರ್ ಕಂಪ್ಯಾಟಿಬಿಲಿಟಿ </string>
+    <string name="website">ವೆಬ್ಸೈಟ್</string>
+    <string name="playlist_title">ಪ್ಲೇಲಿಸ್ಟ್ ಟೈಟಲ್</string>
+    <string name="subdirectory_hint">ಯುವರ್ ಡೌನ್ಲೋಡ್ಸ್ ವಿಲ್ ಬಿ ಸೇವ್ಡ್ ಆಸ್:</string>
+    <string name="system_settings">ಸಿಸ್ಟಮ್ ಸೆಟ್ಟಿಂಗ್ಸ್</string>
+    <string name="force_ipv4">ಫೋರ್ಸ್ IPv4</string>
+    <string name="force_ipv4_desc">ಮೇಕ್ ಆಲ್ ಕಾಂನೆಕ್ಷನ್ಸ್ ವಯಾ  IPv4</string>
+    <string name="keep_subtitle_files">ಕೀಪ್ ಸಬ್ಟೈಟಲ್ ಫೈಲ್ಸ್ </string>
+    <string name="allow_once">ಅಲ್ಲೋ ವನ್ಸ್ </string>
+    <string name="allow_always">ಅಲ್ಲೋ ಆಲ್ವೇಸ್</string>
+    <string name="dont_allow">ಡಾನ್\'t ಅಲ್ಲೋ</string>
+    <string name="download_with_cellular_request">ಅಲ್ಲೋ ಡೌನ್ಲೋಅಡಿಂಗ್ ವಿಥ್ ಸೆಲ್ಯುಲರ್?</string>
+    <string name="merge_audiostream">ಮರ್ಜ್ ಮಲ್ಟಿಪಲ್ ಆಡಿಯೋ ಸ್ಟ್ರೀಮ್</string>
+    <string name="merge_audiostream_desc">ಅಲ್ಲೋ ಮಲ್ಟಿಪಲ್ ಆಡಿಯೋ ಸ್ಟ್ರೆಅಂಶ್ ಟು ಬಿ ಮೆರ್ಜ್ಡ್ ಇಂಟು ಆ ಸಿಂಗಲ್ ಫೈಲ್</string>
+    <string name="search_in_downloads">ಸರ್ಚ್ ಇನ್ ಡೌನ್ಲೋಡ್ಸ್</string>
+    <string name="search">ಸರ್ಚ್</string>
+    <string name="auto_translated_subtitles">ಆಟೋ-ಟ್ರಾನ್ಸ್ಲ್ಯಾಟೆಡ್ ಸಬ್ಟೈಟಲ್</string>
+    <string name="auto_translated_subtitles_msg">ಆಟೋ-ಟ್ರಾನ್ಸ್ಲ್ಯಾಟೆಡ್ ಸುಭ್ತಿಟ್ಲೆಸ್ ಫಾರ್ ಎಲ್ಲ ಲಂಗುಅಗೆ ವಿಲ್ ಬಿ ಅವೈಲಬಲ್ ಇನ್ ಡೌನ್ಲೋಡ್ಸ್. ಥೆಸೆ ಸುಭ್ತಿಟ್ಲೆಸ್ ಮೇ ಬಿ ಇಂಅಚ್ಚುರಾಟೆ ಅಂಡ್ ಡಿಫಿಕಲ್ಟ್ ಟು ಅಂಡರ್ಸ್ಟ್ಯಾಂಡ್.</string>
+    <string name="subtitle_language_desc">ಲ್ಯಾಂಗ್ವೇಜ್ ಒಫ್ ದಿ ಸಬ್ಟೈಟಲ್ ಟು ಡೌನ್ಲೋಡ್ ಇನ್ ಆಟೋ ಫಾರ್ಮ್ಯಾಟ್ ಸೆಲೆಕ್ಷನ್, ಸೆಪರೇಟೆಡ್ ಬೈ ಕಾಮಸ್.</string>
+    <string name="remember_for_next_download">ರಿಮೆಂಬರ್ ಫಾರ್ ನೆಕ್ಸ್ಟ್ ಡೌನ್ಲೋಡ್</string>
+    <string name="look_and_feel"><![CDATA[ಲುಕ್ & ಫೀಲ್]]></string>
+    <string name="interface_and_interaction"><![CDATA[ಇಂಟರ್ಫೇಸ್ & ಇಂಟರಕ್ಷಣ್]]></string>
+
+
+    <string name="use_previous_selection">ಯೂಸ್ ಪ್ರೆವೀಔಸ್ ಸೆಲೆಕ್ಷನ್</string>
+    <string name="none">ನನ್</string>
+    <string name="reset">ರಿಸೆಟ್</string>
+    <string name="search_in_subtitles">Search in subtitles</string>
+    <string name="no_thanks">ನೋ ಥ್ಯಾಂಕ್ಸ್</string>
+    <string name="update_language_msg">ದಿ ಫಾಲೋಯಿಂಗ್ ಲಾಂಗ್ವೇಜಸ್ ವಿಲ್ ಬಿ ಆಡೆಡ್ ಟು ಯುವರ್ ಪ್ರೆಫೆರೆನ್ಸ್ ಫಾರ್ ಫ್ಯೂಚರ್ ಡೌನ್ಲೋಡ್ಸ್:</string>
+    <string name="update_subtitle_languages">ಅಪ್ಡೇಟ್ ಸಬ್ಟೈಟಲ್ ಲಾಂಗ್ವೇಜಸ್ ?</string>
+
+    <string name="export_backup">ಎಕ್ಸ್ಪೋರ್ಟ್</string>
+    <string name="import_backup">ಇಂಪೋರ್ಟ್</string>
+    <string name="full_backup">ಫುಲ್ ಬ್ಯಾಕಪ್</string>
+    <string name="backup_type">ಬ್ಯಾಕಪ್ ಟೈಪ್</string>
+    <string name="export_to">ಎಕ್ಸ್ಪೋರ್ಟ್ ಟು</string>
+    <string name="file">ಫೈಲ್</string>
+    <string name="clipboard">ಕ್ಲಿಪ್ಬೋರ್ಡ್</string>
+    <string name="import_from">ಇಂಪೋರ್ಟ್ ಫ್ರಮ್</string>
+    <string name="export_download_history">ಎಕ್ಸ್ಪೋರ್ಟ್ ಡೌನ್ಲೋಡ್ ಹಿಸ್ಟರಿ?</string>
+    <string name="import_download_history">ಇಂಪೋರ್ಟ್ ಡೌನ್ಲೋಡ್ ಹಿಸ್ಟರಿ?</string>
+    <string name="import_download_history_msg">ಡೌನ್ಲೋಅಡೆಡ್ ಫೈಲ್ಸ್ won\'t ಬಿ ಇಂಪೋರ್ಟೆಡ್. ಯು\'ಲ್ ನೀಡ್ ಟು ಡೌನ್ಲೋಡ್ ಥೆಮ್ ಬ್ಯಾಕ್ ಮ್ಯಾನುಯೇಲ್ಯ್</string>
+    <string name="export_download_history_msg">ಎಸ್ಪಿಓರ್ಟಿನ್ಗ್ %1$s ಫ್ರಮ್ ಡೌನ್ಲೋಡ್ ಹಿಸ್ಟರಿ. ಡೌನ್ಲೋಅಡೆಡ್ ಫೈಲ್ಸ್ ಅಂಡ್ ಪ್ರಿಫರೆನ್ಸಸ್ won\'t ಬಿ ಬ್ಯಾಕ್ಕ್ದ್  ಅಪ್.</string>
+    <string name="download_history">ಡೌನ್ಲೋಡ್ ಹಿಸ್ಟರಿ</string>
+    <string name="download_history_imported">ಇಂಪೋರ್ಟೆಡ್ %1$s ಟು ಡೌನ್ಲೋಡ್ ಹಿಸ್ಟರಿ</string>
+    <string name="redownload">ರೇಡೌನ್ಲೋಡ್</string>
+    <string name="download_archive_error">ದಿ ವಿಡಿಯೋ ಹ್ಯಾಸ್ ಬೀನ್ ಡೌನ್ಲೋಅಡೆಡ್. ಇಫ್ ದಿಸ್ ಐಸ್ ನಾಟ್ ದಿ ಎಕ್ಸ್ಪೆಕ್ಟೆಡ್ ಬಿಹೇವಿಯರ್, ಪ್ಲೀಸ್ ಚೆಕ್ ಯುವರ್ ಡೌನ್ಲೋಡ್ ಆರ್ಕೈವ್.</string>
+
+
+
+
+</resources>
